@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Obra de Casey Reas</title>
+
+     <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<header>
+
+</header>
+<nav>
+    <ul>
+        <li><a href="index.html">Link 1</a></li>
+        <li><a href="pagina2.html">Link 2</a></li>
+        <li><a href="pagina3.html">Link 3</a></li>
+    </ul>
+</nav>
+<main>
+
+</main>
+<footer>
+    <address>
+        <p>
+            Para contactarse escribir a <a href="mailto:casey@artedigital.com">casey@artedigital.com</a>
+        </p>
+    </address>
+</footer>
+</body>
+</html>
